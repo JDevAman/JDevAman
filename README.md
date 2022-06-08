@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aman Patel.
 - 👀 I’m interested in AI/ML.
-- 🌱 I’m currently learning ML Models.
+- 🌱 I’m currently learning ML and Website Development.
 - 💞️ I’m looking to collaborate on Development and Data driven projects.
 - 📫 How to reach me ;-;
 
