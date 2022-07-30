@@ -5,7 +5,8 @@ I'm also Willing to contribute to Open-source organizations.
 
 SKILLS : `Python` `SQL` `Google Cloud` `C/C++` `Data Structures and Algorithms`
 
-`#808080`BADGES :                       
+> BADGES : `C++ 4⭐` `C 4⭐` `Python 4⭐` `SQL 3⭐` 
+                             
 
 <!---
 Assassin0001/Assassin0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
