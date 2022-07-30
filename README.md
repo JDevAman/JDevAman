@@ -1,6 +1,8 @@
 Hello 👋🏽
 
-I’m Aman Kumar.I'm a Junior Currently  pursuing B.Tech in Informtaion Technology from BIT Mesra.I’m currently learning and exploring new skills.
+I’m Aman Kumar.I'm a Junior Currently  pursuing B.Tech in Informtaion Technology from BIT Mesra.
+
+I’m currently learning and exploring new skills.
 I'm also Willing to contribute to Open-source organizations.
 
 SKILLS : `Python` `SQL` `Google Cloud` `C/C++` `Data Structures and Algorithms`
