@@ -5,7 +5,8 @@ I'm also Willing to contribute to Open-source organizations.
 
 SKILLS : `Python` `SQL` `Google Cloud` `C/C++` `Data Structures and Algorithms`
 
-> BADGES : `C++ 4⭐` `C 4⭐` `Python 4⭐` `SQL 3⭐` 
+> BADGES : 
+  `C++ 4⭐` `C 4⭐` `Python 4⭐` `SQL 3⭐` 
                              
 
 <!---
