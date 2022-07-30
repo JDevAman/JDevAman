@@ -3,7 +3,7 @@ Hello 👋🏽
 I’m Aman Kumar currently pursuing B.Tech in Informtaion Technology from BIT Mesra.I’m currently learning and exploring new skills.
 Willing to contribute to Open-source organizations.
 
-Skills : 'Python' C C++ Data Structures and Algorithms MySQL
+Skills : `Python` `C` `C++` `Data Structures and Algorithms` `MySQL`
 
                       
 
