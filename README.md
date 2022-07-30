@@ -1,10 +1,8 @@
 Hello, I’m Aman Kumar currently pursuing B.Tech in Informtaion Technology from BIT Mesra.
-I’m currently learning and exploring new skills :).
-- 🌱 I’m currently learning ML , Website Development and proficiency in Data Structures & Algorithms.
-- 💞️ I’m looking to collaborate on Development and Data driven projects.
-- 📫 How to reach me :
- - Ak_lucifer06 on Instagram 
- - Aman Kumar on LinkedIn
+
+ I’m currently learning and exploring new skills.
+ Willing to contribute to Open-source organizations.
+
                       
 
 <!---
