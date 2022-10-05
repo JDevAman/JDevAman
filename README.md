@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samowais_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samowais_28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/owaislinked" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owaislinked" height="30" width="40" /></a>
-<a href="https://instagram.com/ows.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ows.28" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/owais2112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="owais2112" height="30" width="40" /></a>
+<a href="https://twitter.com/AmPat222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AmPat222" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amankumar-bitm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amankumar-bitm" height="30" width="40" /></a>
+<a href="https://instagram.com/ak_lucifer06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ak_lucifer06" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aman021276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aman021276" height="30" width="40" /></a>
 </p>
 
 <br />
