@@ -24,13 +24,9 @@
 
 ### 📺 Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Assassin0001&show_icons=true&theme=dracula)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzDeKU&show_icons=true&theme=dracula)
 
 <!---
 Assassin0001/Assassin0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-### 📺 Stats
-
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=owais-code&show_icons=true&theme=dracula)
