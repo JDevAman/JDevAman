@@ -24,7 +24,7 @@
 
 ### 📺 Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzDeKU&show_icons=true&theme=transparent)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzDeKU&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itzzDeKU&repo=github-readme-stats)](https://github.com/itzzDeKU/github-readme-stats)
 
