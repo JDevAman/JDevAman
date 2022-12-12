@@ -24,7 +24,7 @@
 
 ### 📺 Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzDeKU&show_icons=true&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzDeKU&show_icons=true&theme=transparent)
 
 <!---
 itzzDeKU/itzzDeKU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
