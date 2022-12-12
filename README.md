@@ -26,7 +26,9 @@
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzzDeKU&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itzzDeKU&repo=github-readme-stats)](https://github.com/itzzDeKU/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itzzDeKU&repo=github-readme-stats)](https://github.com/anuragzhara/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzzDeKU&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 itzzDeKU/itzzDeKU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
