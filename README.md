@@ -24,7 +24,7 @@
 
 ### 📺 Stats
 
-| <a href="https://github.com/itzzDeKU/itzzDeKU"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzDeKU&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aman's github stats" /></a> | <a href="https://github.com/itzzDeKU/itzzDeKU"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzDeKU&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/itzzDeKU/itzzDeKU"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzDeKU&show_icons=true&theme=buefy&hide_border=true" alt="Aman's github stats" /></a> | <a href="https://github.com/itzzDeKU/itzzDeKU"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzzDeKU&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!---
