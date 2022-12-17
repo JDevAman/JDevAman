@@ -1,7 +1,5 @@
 ### Hi there, This is Aman Kumar👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AmPat222?color=1DA1F2&logo=twitter&style=for-the-badge)
-
 ## Welcome to my coding world !
 
 - 🌱 I’m currently pursuing B.Tech in Information Technology
