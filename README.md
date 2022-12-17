@@ -1,11 +1,13 @@
-### Hi there, This is Aman Kumar👋
+## Hi there, This is Aman Kumar👋
 
-## Welcome to my coding world !
+### Welcome to my coding world !
 
 - 🌱 I’m currently pursuing B.Tech in Information Technology
 - 👯 I’m looking to collaborate with other coders
 - 🥅 GitHub Target: Contribute more to Open Source projects
 - ⚡ Good at: C++, Python ,SQL and using Jupyter
+
+[![](https://visitcount.itsvg.in/api?id=Aankirz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
