@@ -1,4 +1,5 @@
-## Hi there, This is Aman Kumar👋
+[![@itsdevashish's Holopin board](https://holopin.me/itzzdeku)](https://holopin.io/@itzzdeku)
+<h1 align="center">Hi there👋, I'm Aman Kumar</h1>
 
 ### Welcome to my coding world !
 
