@@ -6,7 +6,7 @@
 - 🌱 I’m currently pursuing B.Tech in Information Technology
 - 👯 I’m looking to collaborate with other coders
 - 🥅 GitHub Target: Contribute more to Open Source projects
-- ⚡ Good at: C++, Python ,SQL and using Jupyter
+- ⚡ Good at: C++, Python ,SQL , Angular, HTML/CSS/JS, and using Jupyter
 
 [![](https://visitcount.itsvg.in/api?id=itzzDeKU&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
