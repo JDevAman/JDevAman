@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Elivate**
 
-- 🌱 I’m currently learning **Next.js, Native, Express & Docker**
+- 🌱 I’m currently learning **Java, SpringBoot & Docker**
 
 - 👯 I’m looking to collaborate on **Elivate**
 
