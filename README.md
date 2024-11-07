@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzzdeku&label=Profile%20views&color=0e75b6&style=flat" alt="itzzdeku" /> </p>
 
-- 🔭 I’m currently working on **Elivate**
+- 🔭 I’m currently working on **helperBuddy**
 
 - 🌱 I’m currently learning **Java, SpringBoot & Docker**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amankr.24b@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h2VOdevtzl8Heo2r_A3P3XD3OIyKtzBK/view?usp=sharing](https://drive.google.com/file/d/1h2VOdevtzl8Heo2r_A3P3XD3OIyKtzBK/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1h2VOdevtzl8Heo2r_A3P3XD3OIyKtzBK/view?usp=sharing](https://drive.google.com/file/d/186UTfUON0UMwqXJurTAVg2UScRmusA2q/view?usp=sharing))
 
 - ⚡ Fun fact **Maybe I am a nerd**
 
