@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **helperBuddy**
 
-- 🌱 I’m currently learning **Java, SpringBoot & Docker**
+- 🌱 I’m currently learning **Node, PostGreSQL & Docker**
 
 - 👯 I’m looking to collaborate on **Elivate**
 
