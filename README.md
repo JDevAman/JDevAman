@@ -24,7 +24,6 @@ I'm a full-stack developer passionate about building **modular**, **scalable**, 
 ## 🧠 Currently Learning / Building
 
 - PostgreSQL, Prisma ORM
-- Spring Boot + SQL
 - ELK Stack (Elastic, Logstash, Kibana)
 - Telemetry SDKs for app tracking
 - LLM integrations (RAG, prompt routing)
@@ -80,7 +79,7 @@ I'm a full-stack developer passionate about building **modular**, **scalable**, 
 
 ## 📫 Let’s Connect
 
-- 🌐 Website: [devSpace](https://github.com/jdevaman/devSpace)
+- 🌐 Website: [devSpace](https://devaman.space/)
 - 💼 LinkedIn: [linkedin.com/in/jdevaman](https://linkedin.com/in/jdevaman)
 - 🐦 Twitter: [@jdevaman](https://twitter.com/jdevaman)
 - 👨‍💻 GitHub: [github.com/jdevaman](https://github.com/jdevaman)
