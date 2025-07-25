@@ -81,7 +81,7 @@ I'm a full-stack developer passionate about building **modular**, **scalable**, 
 - 🐦 Twitter: [@jdevaman](https://twitter.com/jdevaman)
 - 👨‍💻 GitHub: [github.com/jdevaman](https://github.com/jdevaman)
 - 📧 Email: amankr.24b@gmail.com
-- 🧩 [CodeChef](https://www.codechef.com/users/itzz_deku) • [LeetCode](https://leetcode.com/jdevaman) • [Codeforces](https://codeforces.com/NotDeKU)
+- 🧩 [CodeChef](https://www.codechef.com/users/itzz_deku) • [LeetCode](https://leetcode.com/HariBhakt) • [Codeforces](https://codeforces.com/profile/NotDeKU)
 
 ---
 
