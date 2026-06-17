@@ -1,67 +1,59 @@
-<h1 align="center">👋 Hey, I'm Aman Kumar</h1>
-<h3 align="center">Software Engineer • Backend & Distributed Systems</h3>
+# Hi there, I'm Aman Kumar 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jdevaman&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+**Software Engineer** specializing in **Backend & Distributed Systems**. Currently designing and operating enterprise-scale integration architecture for high-scale corporate systems while engineering high-performance financial infrastructure on the side.
+
+Over my career, I've focused heavily on the critical intersections of **Fintech correctness**, **transactional consistency**, and **middleware orchestration**. I design with an obsession over observability, building event-driven systems that are simple to operate, resilient to cascading failures, and architected to scale under load.
+
+I break down complex distributed systems design, transaction atomicity patterns, and modern backend mechanics on my technical portfolio at **[amankr.me](https://amankr.me)**.
+
+---
+<!-- TOP_REPOS_START -->
+### 🚀 Most Active Repos (Last Year)
+
+- [learnSpace](https://github.com/JDevAman/learnSpace) — 58 commits, +30,678 / -61,033
+- [kizo](https://github.com/JDevAman/kizo) — 44 commits, +77,930 / -50,800
+- [pagaar](https://github.com/JDevAman/pagaar) — 5 commits, +1,436 / -86
+- [JDevAman](https://github.com/JDevAman/JDevAman) — 5 commits, +83 / -112
+- [digihut](https://github.com/JDevAman/digihut) — 1 commits, +4,382 / -0
+- [malenia](https://github.com/JDevAman/malenia) — 1 commits, +230 / -0
+
+<!-- TOP_REPOS_END -->
+---
+
+### 📊 Engineering Metrics
+
+![Metrics](metrics.svg)
 
 ---
 
-I build **production-grade backends** with obsession over **correctness**, **observability**, and **scalability**.
+### 🛠 Tech Stack & Ecosystem
 
-Currently grinding enterprise Java (Spring Boot) after shipping a full fintech wallet in Node.js.
+**Languages & Frameworks:** Java • Spring Boot • Groovy • Node.js • TypeScript • Express
 
-~2 years of experience • Strong in Java/Groovy pipelines (current role), Node.js/TypeScript distributed systems, Dockerized deployments.
+**Data Store & Middleware:** PostgreSQL (Prisma & Raw SQL tuning) • Redis • RabbitMQ • BullMQ
 
----
+**Enterprise Integration & Web Server:** SAP Integration Suite • SAP BTP • OData • REST • SOAP • Nginx
 
-## 🚀 Featured Projects
-
-### 🏦 [Kizo — Digital Wallet (Deployed & Dockerized)](https://github.com/jdevaman/kizo)
-High-concurrency fintech backend simulating real payment flows.
-
-- Engineered ACID-compliant double-entry ledger with row-level locking + idempotency keys  
-- Stress-tested: 100 VUs → 70 RPS, 100% success (k6)  
-- Bottleneck analysis: Argon2 CPU contention (P99 3.41s auth) → documented Redis + isolated auth fixes  
-- Full monorepo (API + React + Astro + Workers) deployed on GCP with Docker/Nginx/CI-CD  
-- **Live:** [kizo.devaman.space](https://kizo.devaman.space) • [app.kizo.devaman.space](https://app.kizo.devaman.space) • [api.kizo-app.devaman.space](https://api.kizo-app.devaman.space)
-
-### 🌐 [devSpace — Personal Portfolio](https://github.com/jdevaman/devSpace)
-Modular Next.js + Tailwind site for technical writing & branding.
+**Cloud & Observability Infrastructure:** Docker • Linux Shell Architecture • GitHub Actions • GCP • Prometheus • Grafana • Pino (Structured Logging)
 
 ---
 
-## 🛠 Tech Stack
+### 🧠 Architectural Philosophy
 
-**Backend & Systems**  
-Node.js • TypeScript • Express • PostgreSQL (Prisma + Raw SQL) • Redis/BullMQ • Java (learning) • Spring Boot (upcoming)
-
-**Infra & DevOps**  
-Docker • GitHub Actions • GCP • Linux • Nginx
-
-**Frontend**  
-React • Astro • Tailwind CSS
-
-**Observability**  
-Prometheus • Grafana • Pino (structured logging)
+I build to understand how distributed layers move. The framework choice is secondary. The high-value questions I engineer against are always:
+* **Why did it fail?** (Cascading failure blast radius, edge conditions)
+* **Why did it scale?** (Bottleneck profiling, contention optimization)
+* **Why did it become difficult to operate?** (Telemetry design, visibility gaps)
+* **How can we make it simpler?** (Pruning architectural complexity)
 
 ---
 
-## 📈 Current Focus (Feb 2026)
-
-Enterprise backend mastery:  
-- Java + Spring Boot (Payroll Engine project in progress)  
-- Microservices patterns • Kubernetes basics • Advanced observability
+### 🧩 Engineering Problem Solving
+* **LeetCode:** 1,000+ Algorithmic Challenges Mastered *(Peak Rating: 1650+)*
+* **CodeChef:** Ranked 524th in Starters Competition
 
 ---
 
-## 📫 Connect
+### 🔗 Connect
 
-- 🌐 [devaman.space](https://devaman.space)  
-- 💼 [LinkedIn](https://linkedin.com/in/Aman)  
-- 📧 amankr.24b@gmail.com  
-- 🧩 LeetCode (1000+ solved, peak >1650) • CodeChef (524th Starters)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jdevaman&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
+[Portfolio Platform](https://amankr.me) • [LinkedIn Executive Network](https://linkedin.com/in/jdevAman) • [Secure Email](mailto:amankr.24b@gmail.com)
