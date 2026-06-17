@@ -10,11 +10,9 @@ I break down complex distributed systems design, transaction atomicity patterns,
 <!-- TOP_REPOS_START -->
 ### 🚀 Most Active Repos (Last Year)
 
-- [learnSpace](https://github.com/JDevAman/learnSpace) — 58 commits, +30,678 / -61,033
 - [kizo](https://github.com/JDevAman/kizo) — 44 commits, +77,930 / -50,800
 - [pagaar](https://github.com/JDevAman/pagaar) — 5 commits, +1,436 / -86
-- [JDevAman](https://github.com/JDevAman/JDevAman) — 5 commits, +83 / -112
-- [digihut](https://github.com/JDevAman/digihut) — 1 commits, +4,382 / -0
+- [JDevAman](https://github.com/JDevAman/JDevAman) — 5 commits, +349 / -154
 - [malenia](https://github.com/JDevAman/malenia) — 1 commits, +230 / -0
 
 <!-- TOP_REPOS_END -->
