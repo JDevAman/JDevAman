@@ -13,7 +13,7 @@ I break down complex distributed systems design, transaction atomicity patterns,
 - [kizo](https://github.com/JDevAman/kizo) — 44 commits, +77,930 / -50,800
 - [JDevAman](https://github.com/JDevAman/JDevAman) — 6 commits, +349 / -154
 - [pagaar](https://github.com/JDevAman/pagaar) — 5 commits, +1,436 / -86
-- [Projects](https://github.com/JDevAman/Projects) — 1 commits, +1 / -0
+- [Projects](https://github.com/JDevAman/Projects) — 2 commits, +2 / -1
 - [malenia](https://github.com/JDevAman/malenia) — 1 commits, +230 / -0
 
 <!-- TOP_REPOS_END -->
