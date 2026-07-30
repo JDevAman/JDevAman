@@ -1,10 +1,8 @@
-# Hi there, I'm Aman Kumar 👋
+# Hi, I'm Aman.
 
-**Software Engineer** specializing in **Backend & Distributed Systems**. Currently designing and operating enterprise-scale integration architecture for high-scale corporate systems while engineering high-performance financial infrastructure on the side.
+**Integration Engineer** with 2 years of production experience, currently building backend engineering depth in **Java, Spring Boot, and distributed systems** through personal projects. I work daily with enterprise integration systems in production, and outside of that I'm building toward backend/SDE roles — learning by shipping real systems, not tutorials.
 
-Over my career, I've focused heavily on the critical intersections of **Fintech correctness**, **transactional consistency**, and **middleware orchestration**. I design with an obsession over observability, building event-driven systems that are simple to operate, resilient to cascading failures, and architected to scale under load.
-
-I break down complex distributed systems design, transaction atomicity patterns, and modern backend mechanics on my technical portfolio at **[amankr.me](https://amankr.me)**.
+I write about backend engineering, system design, and what I'm learning at **[amankr.me](https://amankr.me)**.
 
 ---
 <!-- TOP_REPOS_START -->
@@ -25,34 +23,45 @@ I break down complex distributed systems design, transaction atomicity patterns,
 
 ---
 
-### 🛠 Tech Stack & Ecosystem
+### 🛠 Tech Stack
 
-**Languages & Frameworks:** Java • Spring Boot • Groovy • Node.js • TypeScript • Express
+**Current Focus:** Java • Spring Boot • Distributed Systems
 
-**Data Store & Middleware:** PostgreSQL (Prisma & Raw SQL tuning) • Redis • RabbitMQ • BullMQ
+**Secondary:** Python • FastAPI
 
-**Enterprise Integration & Web Server:** SAP Integration Suite • SAP BTP • OData • REST • SOAP • Nginx
+**Data & Middleware:** PostgreSQL • Redis • RabbitMQ
 
-**Cloud & Observability Infrastructure:** Docker • Linux Shell Architecture • GitHub Actions • GCP • Prometheus • Grafana • Pino (Structured Logging)
+**Enterprise Integration:** SAP Integration Suite (CPI) • SAP BTP • REST • SOAP • OData
 
----
-
-### 🧠 Architectural Philosophy
-
-I build to understand how distributed layers move. The framework choice is secondary. The high-value questions I engineer against are always:
-* **Why did it fail?** (Cascading failure blast radius, edge conditions)
-* **Why did it scale?** (Bottleneck profiling, contention optimization)
-* **Why did it become difficult to operate?** (Telemetry design, visibility gaps)
-* **How can we make it simpler?** (Pruning architectural complexity)
+**Infra & Tooling:** Docker • Linux • GitHub Actions • Git
 
 ---
 
-### 🧩 Engineering Problem Solving
-* **LeetCode:** 1,000+ Algorithmic Challenges Mastered *(Peak Rating: 1650+)*
-* **CodeChef:** Ranked 524th in Starters Competition
+### 🧩 Personal Projects
+
+- **Kizo** — Digital wallet backend (personal project). ACID-compliant ledger, dual-token auth, async processing with BullMQ. Load-tested with k6: 100 concurrent users, 70+ RPS.
+- **Pagaar** — Payroll engine in Java/Spring Boot, in progress. Building to deepen backend fundamentals through a real domain.
+- **Malenia** — AI-powered knowledge platform exploring RAG, in progress.
+
+---
+
+### 🧠 How I Think About Engineering
+
+My philosophy is simple: **safety over performance.**
+
+After writing code, I ask:
+- How do I test this?
+- How can this break?
+- How do I optimize it — and is this the right time to?
+  
+---
+
+### 🧩 Problem Solving
+* **LeetCode:** 1,000+ problems solved (peak rating 1640, current 1615)
+* Actively practicing Low-Level Design (OOP, SOLID, design patterns)
 
 ---
 
 ### 🔗 Connect
 
-[Portfolio Platform](https://amankr.me) • [LinkedIn Executive Network](https://linkedin.com/in/jdevAman) • [Secure Email](mailto:amankr.24b@gmail.com)
+[Portfolio](https://amankr.me) • [LinkedIn](https://linkedin.com/in/jdevAman) • [Email](mailto:amankr.24b@gmail.com)
