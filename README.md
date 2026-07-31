@@ -10,7 +10,7 @@ I write about backend engineering, system design, and what I'm learning at **[am
 
 - [kizo](https://github.com/JDevAman/kizo) — 44 commits, +77,930 / -50,800
 - [pagaar](https://github.com/JDevAman/pagaar) — 5 commits, +1,436 / -86
-- [JDevAman](https://github.com/JDevAman/JDevAman) — 3 commits, +346 / -147
+- [JDevAman](https://github.com/JDevAman/JDevAman) — 4 commits, +375 / -167
 - [Projects](https://github.com/JDevAman/Projects) — 2 commits, +2 / -1
 - [malenia](https://github.com/JDevAman/malenia) — 1 commits, +230 / -0
 
