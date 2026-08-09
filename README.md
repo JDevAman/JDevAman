@@ -12,7 +12,6 @@ I write about backend engineering, system design, and what I'm learning at **[am
 - [pagaar](https://github.com/JDevAman/pagaar) — 5 commits, +1,436 / -86
 - [JDevAman](https://github.com/JDevAman/JDevAman) — 4 commits, +375 / -167
 - [Projects](https://github.com/JDevAman/Projects) — 2 commits, +2 / -1
-- [malenia](https://github.com/JDevAman/malenia) — 1 commits, +230 / -0
 
 <!-- TOP_REPOS_END -->
 ---
