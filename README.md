@@ -38,7 +38,6 @@ I write about backend engineering, system design, and what I'm learning at **[am
 
 - **Kizo** — Digital wallet backend (personal project). ACID-compliant ledger, dual-token auth, async processing with BullMQ. Load-tested with k6: 100 concurrent users, 70+ RPS.
 - **Pagaar** — Payroll engine in Java/Spring Boot, in progress. Building to deepen backend fundamentals through a real domain.
-- **Malenia** — AI-powered knowledge platform exploring RAG, in progress.
 
 ---
 
