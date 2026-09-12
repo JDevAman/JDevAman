@@ -1,6 +1,6 @@
 # Hi, I'm Aman.
 
-**Integration Engineer** with 2 years of production experience, currently building backend engineering depth in **Java, Spring Boot, and distributed systems** through personal projects. I work daily with enterprise integration systems in production, and outside of that I'm building toward backend/SDE roles — learning by shipping real systems, not tutorials.
+**Integration Consultant** with 2 years of production experience, currently building backend engineering depth in **Java, Spring Boot, and distributed systems** through personal projects. I work daily with enterprise integration systems in production, and outside of that I'm building toward backend/Infra roles — learning by shipping real systems, not tutorials.
 
 I write about backend engineering, system design, and what I'm learning at **[amankr.me](https://amankr.me)**.
 
@@ -25,8 +25,6 @@ I write about backend engineering, system design, and what I'm learning at **[am
 ### 🛠 Tech Stack
 
 **Current Focus:** Java • Spring Boot • Distributed Systems
-
-**Secondary:** Python • FastAPI
 
 **Data & Middleware:** PostgreSQL • Redis • RabbitMQ
 
