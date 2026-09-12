@@ -9,9 +9,8 @@ I write about backend engineering, system design, and what I'm learning at **[am
 ### 🚀 Most Active Repos (Last Year)
 
 - [kizo](https://github.com/JDevAman/kizo) — 44 commits, +77,930 / -50,800
+- [JDevAman](https://github.com/JDevAman/JDevAman) — 6 commits, +376 / -171
 - [pagaar](https://github.com/JDevAman/pagaar) — 5 commits, +1,436 / -86
-- [JDevAman](https://github.com/JDevAman/JDevAman) — 4 commits, +375 / -167
-- [Projects](https://github.com/JDevAman/Projects) — 2 commits, +2 / -1
 
 <!-- TOP_REPOS_END -->
 ---
