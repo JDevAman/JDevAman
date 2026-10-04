@@ -11,7 +11,6 @@ I write about backend engineering, system design, and what I'm learning at **[am
 - [kizo](https://github.com/JDevAman/kizo) — 44 commits, +77,930 / -50,800
 - [JDevAman](https://github.com/JDevAman/JDevAman) — 6 commits, +376 / -171
 - [pagaar](https://github.com/JDevAman/pagaar) — 5 commits, +1,436 / -86
-- [z8](https://github.com/JDevAman/z8) — 1 commits, +23 / -0
 
 <!-- TOP_REPOS_END -->
 ---
